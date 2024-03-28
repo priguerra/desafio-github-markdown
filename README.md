@@ -7,3 +7,6 @@ que utilizam o Git e GitHub.
 
 1. criar um novo repositório; 
 2. adicionar um arquivo README nele;
+3. clonar o repositório na minha  máquinalocal 
+4. modificar algum documento
+5. realizar commits 
